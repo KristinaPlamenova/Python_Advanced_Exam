@@ -86,5 +86,5 @@ while True:
         break
     fishing_area[current_position[0]][current_position[1]] = 'S'
 
-# Print the final results
+
 handle_results(quota, whirlpool, fishing_area)
